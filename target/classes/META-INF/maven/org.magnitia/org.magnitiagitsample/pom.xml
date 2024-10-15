@@ -3,4 +3,16 @@
   <groupId>org.magnitia</groupId>
   <artifactId>org.magnitiagitsample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+	  <dependency>
+         <groupId>io.github.bonigarcia</groupId>
+         <artifactId>webdrivermanager</artifactId>
+         <version>5.6.0</version>
+     </dependency>
+     <dependency>
+        <groupId>org.seleniumhq.selenium</groupId>
+        <artifactId>selenium-java</artifactId>
+        <version>4.9.0</version>
+    </dependency>
+    </dependencies>
 </project>
